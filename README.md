@@ -5,7 +5,7 @@
 - 📫 How to reach me email me at kinsuk.work@out.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: there are  more animals than humen
-- https://github-readme-stats.vercel.app/api?username=alonewebdevkin&show_icons=true&theme=transparent
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alonewebdevkin&show_icons=true&theme=transparent)
 
 <!---
 alonewebdevkin/alonewebdevkin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
